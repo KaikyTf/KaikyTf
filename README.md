@@ -23,6 +23,7 @@ I am currently a Systems Information student 💻 at Unoeste-SP. I'm passionate 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="css3" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="css3" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="github" style="vertical-align:top; margin:4px; height:80px;"/>
 </p>
 
